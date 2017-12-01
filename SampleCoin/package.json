@@ -1,0 +1,25 @@
+{
+  "name": "sample_coin",
+  "version": "1.0.0",
+  "description": "Just a tiny Blockchain",
+  "main": "Shayan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shayan33/SampleCoin.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Shayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shayan33/SampleCoin/issues"
+  },
+  "homepage": "https://github.com/Shayan33/SampleCoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
